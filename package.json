@@ -1,0 +1,21 @@
+{
+  "name": "bomberman-dom",
+  "version": "1.0.0",
+  "description": "A multiplayer Bomberman game built using plain JavaScript, DOM manipulation, and WebSockets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://learn.01founders.co/git/vkyrychu/bomberman-dom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "react": "^19.1.0",
+    "websocket": "^1.0.35"
+  }
+}
